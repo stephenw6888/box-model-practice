@@ -4,24 +4,37 @@
     border: 1px solid red;
     font-family: 'Oswald', sans-serif;
     text-align: center;
+    
 }
 
 #title {
     background: yellow;
     /*add CSS here*/
-    
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding: 30px 30px 20px 30px;
 }
 
-#subtitle {
-    background: black;
+#subtitle 
+ {
+    
     color: white;
     /*add CSS here*/
-    
+    background-color: black;
+    background: ;
+    margin: 0 auto;
+    width: 400px;
+    padding: 0px 30px 0px 30px;
 }
 
-.topic {
-    background: lightgray;
-    /*add CSS here*/
-    
+#3DModeling {
+    background-color: gray;
+    background: ;
+    float: right;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
 }
+
 
